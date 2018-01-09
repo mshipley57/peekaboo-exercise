@@ -1,0 +1,57 @@
+#walrus-showing {
+  display: none;
+}
+
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.clickWorthy {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickWorthy:hover {
+  text-decoration: underline;
+}
+
+#otherText {
+  display: none;
+}
+
+.green-background  {
+  background-color: green;
+}
+
+.green-background #titleA {
+  font-size: 100px;
+  color: yellow;
+}
+
+.pink-background {
+  background-color: pink;
+}
+
+
+.pink-background #smallpeekaboo {
+  color: red;
+}
+
+.green-background h1 #smallboo {
+  color: red;
+}
+
+.green-background #otherText h1 {
+  color: white;
+}
+
+.pink-background #exclamark {
+  color:green;
+}
